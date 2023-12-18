@@ -27,13 +27,13 @@ Google Colab, Python, Pytorch
 ------
 
 ## 테스트
-<a href="https://github.com/yuzy1022/YOLOX-drone-traffic-object-detection-/blob/main/%5BMSAI%5DYOLO_X_Drontraffic__kaggledataset_Final.ipynb">[MSAI]YOLO_X_Drontraffic__kaggledataset_Final.ipynb</a> 파일을 다운로드 받아 Google Colab (GPU 사용) 혹은 (컴퓨터 자원이 충분하다면) Local PC에서 Jupyter Notebook을 사용해 실행합니다.
+<a href="https://github.com/yuzy1022/YOLOX-drone-traffic-object-detection/blob/main/src/%5BMSAI%5DYOLO_X_Drontraffic__kaggledataset_Final.ipynb">[MSAI]YOLO_X_Drontraffic__kaggledataset_Final.ipynb</a> 파일을 다운로드 받아 Google Colab (GPU 사용) 혹은 (컴퓨터 자원이 충분하다면) Local PC에서 Jupyter Notebook을 사용해 실행합니다.
 
 
-<a href="https://github.com/yuzy1022/YOLOX-drone-traffic-object-detection-/blob/main/YOLOX%20thesis%20review.pdf">YOLOX thesis review.pdf</a> 파일은 팀원 <a href="https://github.com/yuzy1022">박상원</a>이 논문을 리뷰하며 공부했던 내용을 논문 PDF파일에 주석으로 정리한 것입니다.  
+<a href="https://github.com/yuzy1022/YOLOX-drone-traffic-object-detection/blob/main/src/YOLOX%20thesis%20review.pdf">YOLOX thesis review.pdf</a> 파일은 팀원 <a href="https://github.com/yuzy1022">박상원</a>이 논문을 리뷰하며 공부했던 내용을 논문 PDF파일에 주석으로 정리한 것입니다.  
 해당 파일을 다운로드 받아 PDF뷰어로 실행하면 주석을 확인할 수 있습니다.
 
-<a href="https://github.com/yuzy1022/YOLOX-drone-traffic-object-detection-/blob/main/YOLOX%20%EB%B0%8F%20%EA%B4%80%EB%A0%A8%20%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC.pdf">YOLOX 및 관련 개념 정리.pdf</a> 파일은 팀원들끼리 YOLOX에 대해 공부한 내용과 관련 개념들을 간략하게 정리한 것입니다.
+<a href="https://github.com/yuzy1022/YOLOX-drone-traffic-object-detection/blob/main/src/YOLOX%20%EB%B0%8F%20%EA%B4%80%EB%A0%A8%20%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC.pdf">YOLOX 및 관련 개념 정리.pdf</a> 파일은 팀원들끼리 YOLOX에 대해 공부한 내용과 관련 개념들을 간략하게 정리한 것입니다.
 
 ------
 
