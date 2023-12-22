@@ -3,8 +3,9 @@ YOLOX 논문을 팀원들과 스터디 형식으로 공부하고, 공부한 내�
 
 프로젝트의 목적은 Camera based Object Detection 기법 중 하나인 YOLO에 대한 추가 학습, 인공지능 분야 논문 읽기 및 코드 리뷰를 통해 논문 읽기 역량 향상, 그리고 모두가 간편하게 코드를 실행해 볼 수 있도록 Google Colab 환경에서 코딩하는 것 입니다.
 
-
 리뷰 논문 : <a href="https://arxiv.org/abs/2107.08430">YOLOX: Exceeding YOLO Series in 2021</a>
+
+프로젝트 진행기간 : 23.10.23 ~ 23.11.14
 
 ------
 
